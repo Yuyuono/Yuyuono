@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Yuyuono/Yuyuono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oioi meu nome é Larissa Ono (mas eu gosto que me chame de Yuri) ☕
+*. . * . *
 
-Here are some ideas to get you started:
+💙Curiosidades💙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Sou estudante na Alura.📑😜
+
+> Minha cor favorita e roxo.💜
+
+> Eu moro em uma casa e tenho 5 animais de estimação, 3 gatos e 2 cachorros.🐱🐱🐱🐶🐺
+
+> Minha materia favorita na escola e biologia.📖🌻
+
+{Você pode estrar em contato comigo em:}
+
+e-gmail: 00001092131796sp@al.educacao.sp.gov.br
+
+Bye bye 💗
+
+![11186106_7e72f](https://github.com/user-attachments/assets/81e329d0-f538-4c48-bd20-950070d1b608)
+
